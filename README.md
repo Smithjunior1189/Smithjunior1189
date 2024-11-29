@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on AI based projects
 - 📫 How to reach me: steve@thepromptindex.com
+- My projects: The Prompt Index: www.thepromptindex.com, The Ministry of AI: www.theministryofai.org, Percentage Calculator: www.percentagescalculator.co.uk
 
 <!---
 Smithjunior1189/Smithjunior1189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
